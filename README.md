@@ -1,1 +1,2 @@
-# Stone-and-hammer
+# Geologist
+Geologist Project
